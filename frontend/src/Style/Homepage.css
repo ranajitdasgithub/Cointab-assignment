@@ -1,0 +1,15 @@
+#Container{
+    margin-top: 10%;
+
+}
+button{
+    padding: 1rem;
+    color: white;
+    font-weight: 600;
+    font-size: 1rem;
+    border: none;
+    background-color: rgb(26, 155, 155);
+    margin-left: 1rem;
+    border-radius: 10px;
+    cursor: pointer;
+}
